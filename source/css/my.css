@@ -1,1 +1,25 @@
 /* Here is your custom css styles. */
+/* ads img */
+.content-offer {
+  background: #FFFFFF;
+}
+.content-offer-content img {
+    width: 100%;
+    max-width: 728px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.ads-sidebar {
+  background: transparent;
+}
+.ads-sidebar img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
