@@ -1,6 +1,6 @@
 # main menu navigation url and icon.
 menu:
-  Index:
+  Home:
     url: /
     icon: fa-home
   Tags:
